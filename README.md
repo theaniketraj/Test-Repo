@@ -7,3 +7,7 @@
 ![OTP API Tests](https://img.shields.io/github/actions/workflow/status/lasp-lang/partisan/otp-test.yml?&branch=master&label=otp-api-tests&style=for-the-badge)
 
 ![Alt Tests](https://img.shields.io/github/actions/workflow/status/lasp-lang/partisan/alt-test.yml?&branch=master&label=alt-tests&style=for-the-badge)
+
+This repository is built to learn all nitty-gritty of github from creating a repo, projcts, publishing packages, designing a repo everything.
+
+Kindly Ignore this repo.
